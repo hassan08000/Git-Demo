@@ -1,3 +1,5 @@
 This new changes in file one
 
+This is added another lines
+
 This is file 2 another changes
